@@ -1,3 +1,3 @@
 # Deploying a Flask API
 
-Retriggering codebuild 
+Deploying a flask api to a kubernetes cluster
